@@ -33,3 +33,18 @@ Footfit 은 바쁜 현대인들이나 식단을 하는 용자들에게 Foodfit�
 배달음식의 비중이 치우져저 있는 현대 사회의 파고들어 귀찮은 어떻게 식단을 해야하는지 모르거나 편하게 하고싶은 사용자에게 추천드립니다.
 이를 해결하기 위해 FoodFit 이라는 사이트르 이용한 자기화 식단 관리가 가능합니다.
 
+## Stacks
+
+### Environment
+![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+### Development
+
+<img alt="Java" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+### Communication
+<img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
