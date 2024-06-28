@@ -51,4 +51,4 @@ Footfit 은 바쁜 현대인들이나 식단을 하는 용자들에게 Foodfit�
 
 ### Communication
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/zoom-000000?style=for-the-badge&logo=Tistory&logoColor=white">
